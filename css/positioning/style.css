@@ -1,0 +1,30 @@
+
+.cooloctopus{
+
+}
+
+#octopus{
+
+	position: relative;
+	width: 400px;
+	margin: auto;
+	z-index: 0;
+	top: 50px;
+
+}
+
+#hat{
+
+	position: absolute;
+	 top: 0px;
+	 left: 550px;
+	 z-index: 1;
+}
+
+#glasses{
+
+	position: absolute;
+	top: 160px;
+	left: 610px;
+	z-index: 2;
+}
