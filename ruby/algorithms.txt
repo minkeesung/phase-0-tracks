@@ -1,0 +1,14 @@
+Riding an elevator.  
+1.  Receive input for which floor you want to enter.
+2.  Start with the number one and keep adding one until that value is equal to the floor you want to enter.
+3.  Once the two values are equal press the button of that value. 
+
+Eating cereal
+
+1. Pour milk in a bowl.
+2. Put cereal in a bowl.
+3. Put spoon in cereal.
+4. Keep putting spoon in random places.
+5. Eliminate each place spoon was placed.
+6. Stop putting spoon somewhere once the mouth is reached.
+7. Repeat until the spoon does not have any cereal.  
