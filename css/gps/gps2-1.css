@@ -1,3 +1,32 @@
 header {
-	   font-style: oblique;
+background-color:blue;
+font-style: oblique;
+position: absolute;
+top: 100px;
+}
+
+.column-1{
+
+background-color: red;
+float: left;
+width:50%;
+
+}
+
+.column-2{
+
+background-color: green;
+float: right;
+width: 50%;
+}
+
+footer{
+
+background-color: orange;
+ color: green;
+ font-size: 50px;
+}
+
+body{
+	background-image: url("http://cameronmcefee.com/img/work/the-octocat/codercat.jpg");
 }
