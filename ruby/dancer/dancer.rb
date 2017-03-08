@@ -27,14 +27,9 @@ class Dancer
  		p "now dancing with #{@card[0]}"
  		@card.shift
  	end
+
+ 	def leave							#This method indicates when it is time for the dancers to leave.  
+ 		p "it is time to leave"
+ 	end
  end	
 
- newdancer = Dancer.new("misty", 23)
- p newdancer.name
- p newdancer.age = 44
-
- p newdancer.queue_dance_with("baba")
- p newdancer.queue_dance_with("grape")
- p newdancer.card
- newdancer.begin_next_dance
- p newdancer.card
