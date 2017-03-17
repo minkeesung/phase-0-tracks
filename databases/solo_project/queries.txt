@@ -1,0 +1,8 @@
+1.  SELECT * FROM students;
+2.  UPDATE students SET teacher_id=1 WHERE name="Bob";
+3.  SELECT * FROM students, teachers WHERE students.teacher_id = teacher_id;
+4.  SELECT * FROM students WHERE id=1;
+    SELECT * FROM teachers WHERE id=1;
+5.  DELETE FROM students WHERE name="Bob";
+6.  SELECT teacher_id FROM students CROSS JOIN teachers;
+     SELECT teacher_id from teachers inner join students on students.id = teachers.id;
