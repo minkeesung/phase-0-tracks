@@ -1,0 +1,6 @@
+
+2. SELECT reviews.id, businesses.id AS business_id, users.id AS user_id FROM users.id = businesses.id;
+
+3. SELECT users.first_name, businesses.name FROM businesses JOIN users ON users.id = businesses.id;
+
+4. SELECT "nails" from businesses;
